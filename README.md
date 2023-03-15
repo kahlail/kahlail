@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kahlail
 - 👀 I’m interested in the arts
-- 🌱 I’m currently completing a bootcamp for Data Engineering
-- 💞️ I’m looking for others starting their journey in tech
+- 🌱 I’m currently completing a Generation bootcamp for Data Engineering
+- 💞️ I’m looking for others starting a new journey in tech
 - 📫 Send me a dm, I'm friendly (@kalliwashere)
 
 <!---
