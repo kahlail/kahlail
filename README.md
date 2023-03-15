@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kahlail
 - 👀 I’m interested in the arts
-- 🌱 I’m currently learning the basics of python and SQL
-- 💞️ I’m looking for others on this learning journey
-- 📫 DM me @kalliwashere_ / @kalliwashere
+- 🌱 I’m currently completing a bootcamp for Data Engineering
+- 💞️ I’m looking for others starting their journey in tech
+- 📫 Send me a dm, I'm friendly (@kalliwashere)
 
 <!---
 kahlail/kahlail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
