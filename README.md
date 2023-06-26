@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kahlail
-- 👀 I’m interested in the arts
-- 🌱 I’m currently completing a Generation bootcamp in Data Engineering
-- 💞️ I’m looking for others starting a new journey in tech
-- 📫 Send me a dm, I'm friendly (@kalliwashere)
+- 👋 Hi there, I’m @kahlail. I'm a Python programmer and a self-taught musician.
+- 🌱 I recently completed a Generation UK & IR programme in Data Engineering!
+- 👀 I’m interested in the expansion of AI and how this is impacting live data modelling and interpretation.
+- 🧪 I am currently developing a mini project, with a dashboard for 'Eyepatch Morty' using the Rick and Morty API.
+
 
 <!---
 kahlail/kahlail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
