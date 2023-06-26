@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m @kahlail. I'm a Python programmer and a self-taught musician.
 - 🌱 I recently completed a Generation UK & IR programme in Data Engineering!
 - 👀 I’m interested in the expansion of AI and how this is impacting live data modelling and interpretation.
-- 🧪 I am currently developing a mini project, with a dashboard for 'Eyepatch Morty' using the Rick and Morty API.
+- 🧪 I am currently developing a mini ETL project, with 'Eyepatch Morty' as my end client which uses the Rick and Morty API.
 
 
 <!---
