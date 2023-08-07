@@ -5,7 +5,7 @@
 - 🌱 I recently completed a [Generation UK & IR](https://uk.generation.org/) bootcamp in partnership with [Infnity Works](https://www.infinityworks.com/) in Data Engineering - here's the [final project](https://github.com/kahlail/generation_uk_final_project_kahlail)!
 - 🦠 Since then, I've started developing a mini [ETL project](https://github.com/kahlail/escape_the_central_finite_curve), to help ['Eyepatch' Morty](https://rickandmorty.fandom.com/wiki/Evil_Morty) escape the [Central Finite Curve](https://rickandmorty.fandom.com/wiki/Central_Finite_Curve)!
 - 👀 I’m interested in the expansion of AI and how they are impacting live data modelling and interpretation.
-- 💙 I'm currently seeking my first role in tech!
+- 💙 I'm currently seeking an entry-level role in tech!
 - 📖 My latest study subject: Data Structures and Algorithms.
 
 
